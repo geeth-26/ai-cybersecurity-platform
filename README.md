@@ -32,3 +32,9 @@ python threat_intel.py
 
 ### GUI
 python threat_gui.py
+
+## 📄 Project Report
+
+You can view/download the complete project documentation here:
+
+[Download Report](https://github.com/geeth-26/ai-cybersecurity-platform/raw/main/cybersecurity_report.docx)
