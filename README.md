@@ -37,4 +37,5 @@ python threat_gui.py
 
 You can view/download the complete project documentation here:
 
-[Download Report](https://github.com/geeth-26/ai-cybersecurity-platform/raw/main/cybersecurity_report.docx)
+[Download Report]([cybersecurity_report_professional(2).docx](https://github.com/user-attachments/files/27238644/cybersecurity_report_professional.2.docx)
+
